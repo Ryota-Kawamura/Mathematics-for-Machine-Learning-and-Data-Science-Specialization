@@ -21,7 +21,7 @@ $$\begin{cases} m + 2b + 5 = 20 \cr 2b + m + c = 10 \cr b + 2m + 3c = 15 \end{ca
 $$\begin{cases} 2b + m + 5c = 20 \cr b + 2m + c = 10 \cr 2b + m + 3c = 15 \end{cases}$$
 
 **2. Which of the following matrices represents the system of equations?**
-- [ ]
+- [ ] (A)
 
 $$\begin{bmatrix} 2 & 1 & 5 & 20 \cr 1 & 2 & 1 & 10 \cr 2 & 1 & 3 & 15 \end{bmatrix}$$
 - [ ] (B)
