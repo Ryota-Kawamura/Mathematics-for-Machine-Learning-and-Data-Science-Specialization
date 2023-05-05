@@ -29,7 +29,7 @@ After completing this course, learners will be able to:
 - Express certain types of matrix operations as linear transformations 
 - Apply concepts of eigenvalues and eigenvectors to machine learning problems
 
-### [Week 1: Systems of Linear Equations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/tree/main/Course-1/Week-1)
+### [Week 1: Systems of Linear Equations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Lecture-Note.pdf)
 Matrices are commonly used in machine learning and data science to represent data and its transformations. In this week, you will learn how matrices naturally arise from systems of equations and how certain matrix properties can be thought in terms of operations on system of equations.
 
 #### Learning Objectives
@@ -37,8 +37,6 @@ Matrices are commonly used in machine learning and data science to represent dat
 - Determine the number of solutions to a 2x2 and 3x3 system of linear equations
 - Distinguish between singular and non-singular systems of equations
 - Determine the singularity of 2x2 and 3x3 system of equations by calculating the determinant
-
-#### [Lecture Note](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Lecture-Note.pdf)
 
 #### Lesson 1: Systems of Linear equations: two variables
 - Machine learning motivation
