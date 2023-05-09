@@ -58,3 +58,31 @@ Matrices are commonly used in machine learning and data science to represent dat
 - The determinant (3×3)
 - [Quiz: Matrices](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Quiz.md)
 - [Lab: Solving Linear Systems: 2 variables](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Lab_2_solving_linear_systems_2_variables.ipynb)
+
+### [Week 2: Solving systems of Linear Equations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-2/C1_W2_Lecture-Note.pdf)
+In this week, you will learn how to solve a system of linear equations using the elimination method and the row echelon form. You will also learn about an important property of a matrix: the rank. The concept of the rank of a matrix is useful in computer vision for compressing images.
+
+#### Learning Objectives
+- Solve a system of linear equations using the elimination method.
+- Use a matrix to represent a system of linear equations and solve it using matrix row reduction.
+- Solve a system of linear equations by calculating the matrix in the row echelon form.
+- Calculate the rank of a system of linear equations and use the rank to determine the number of solutions of the system.
+
+#### Lesson 1: Solving systems of Linear Equations: Elimination
+- Machine learning motivation
+- Solving non-singular systems of linear equations
+- Solving singular systems of linear equations
+- Solving systems of equations with more variables
+- Matrix row-reduction
+- Row operations that preserve singularity
+- [Practice Quiz: Method of Elimination](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-2/C1_W2_Practice-Quiz.md)
+- [Lab: Solving Linear Systems: 3 variables](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-2/C1_W2_Lab_1_solving_linear_systems_3_variables.ipynb)
+
+#### Lesson 2: Solving systems of Linear Equations: Row Echelon Form and Rank
+- The rank of a matrix
+- The rank of a matrix in general
+- Row echelon form
+- Row echelon form in general
+- Reduced row echelon form
+- [Quiz: The Rank of a matrix](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-2/C1_W2_Quiz.md)
+- [Programming Assignment: System of Linear Equations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-2/C1_W2_Assignment.ipynb)
