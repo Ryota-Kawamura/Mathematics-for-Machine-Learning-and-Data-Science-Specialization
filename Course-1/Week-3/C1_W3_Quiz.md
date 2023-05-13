@@ -21,7 +21,7 @@ $\vec{w} = \left( 0,-1,2 \right)$
 - [x] The dot product of orthogonal vectors is always 0.
 - [ ] The dot product of orthogonal vectors is always 1. 
 
-**4. Calculate the norm $\|| v \||$ of the vector $\vec{v} = \left( 1,-5,2,0,-3 \right)$**
+**4. Calculate the norm $\|| v \||$ of the vector $\vec{v} = \left( 1,-5,2,0,-3 \right)$ and select the correct answer.**
 - [ ] $\|| v \|| = \sqrt{35}$
 - [ ] $\|| v \|| = 5$
 - [ ] $\|| v \|| = 39$
