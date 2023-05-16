@@ -86,3 +86,36 @@ In this week, you will learn how to solve a system of linear equations using the
 - Reduced row echelon form
 - [Quiz: The Rank of a matrix](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-2/C1_W2_Quiz.md)
 - [Programming Assignment: System of Linear Equations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-2/C1_W2_Assignment.ipynb)
+
+### [Week 3: Vectors and Linear Transformations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Lecture-Note.pdf)
+An individual instance (observation) of data is typically represented as a vector in machine learning. In this week, you will learn about properties and operations of vectors. You will also learn about linear transformations, matrix inverse, and one of the most important operations on matrices: the matrix multiplication. You will see how matrix multiplication naturally arises from composition of linear transformations. Finally, you will learn how to apply some of the properties of matrices and vectors that you have learned so far to neural networks.
+
+#### Learning Objectives
+- Perform common operations on vectors like sum, difference, and dot product.
+- Multiply matrices and vectors.
+- Represent a system of linear equations as a linear transformation on a vector.
+- Calculate the inverse of a matrix, if it exists.
+
+#### Lesson 1: Vectors
+- Norm of a vector
+- Sum and difference of vectors
+- Distance between vectors
+- Multiplying a vector by a scalar
+- The dot product
+- Geometric Dot Product
+- Multiplying a matrix by a vector
+- [Practice Quiz: Vector operations: Sum, difference, multiplication, dot product](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Practice-Quiz.md)
+- [Lab: Vector Operations: Scalar Multiplication, Sum and Dot Product of Vectors](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab_1_vector_operations.ipynb)
+
+#### Lesson 2: Linear transformations
+- Matrices as linear transformations
+- Linear transformations as matrices
+- Matrix multiplication
+- The identity matrix
+- Matrix inverse
+- Which matrices have an inverse?
+- Neural networks and matrices
+- [Quiz: Vector and Matrix Operations, Types of Matrices](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Quiz.md)
+- [Lab: Matrix Multiplication](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab_2_matrix_multiplication.ipynb)
+- [Lab: Linear Transformations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab_3_linear_transformations.ipynb)
+- [Programming Assignment: Single Perceptron Neural Networks for Linear Regression](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Assignment.ipynb)
