@@ -119,3 +119,29 @@ An individual instance (observation) of data is typically represented as a vecto
 - [Lab: Matrix Multiplication](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab_2_matrix_multiplication.ipynb)
 - [Lab: Linear Transformations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab_3_linear_transformations.ipynb)
 - [Programming Assignment: Single Perceptron Neural Networks for Linear Regression](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Assignment.ipynb)
+
+### [Week 4: Determinants and Eigenvectors](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-4/C1_W4_Lecture-Note.pdf)
+In this final week, you will take a deeper look at determinants. You will learn how determinants can be geometrically interpreted as an area and how to calculate determinant of product and inverse of matrices. We conclude this course with eigenvalues and eigenvectors. Eigenvectors are used in dimensionality reduction in machine learning. You will see how eigenvectors naturally follow from the concept of eigenbases.
+
+#### Learning Objectives
+- Interpret the determinant of a matrix as an area and calculate determinant of an inverse of a matrix and a product of matrices.
+- Determine the bases and span of vectors.
+- Find eigenbases for a special type of linear transformations commonly used in machine learning.
+- Calculate the eignenvalues and eigenvectors of a linear transformation (matrix).
+
+#### Lesson 1: Determinants In-depth
+- Machine Learning Motivation
+- Singularity and rank of linear transformation
+- Determinant as an area
+- Determinant of a product
+- Determinants of inverses
+- [Practice Quiz: Determinants and Linear Transformations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-4/C1_W4_Practice-Quiz.md)
+
+#### Lesson 2: Eigenvalues and Eigenvectors
+- Bases in Linear Algebra
+- Span in Linear Algebra
+- Interactive visualization: Linear Span
+- Eigenbases
+- Eigenvalues and eigenvectors
+- [Quiz: Eigenvalues and Eigenvectors](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-4/C1_W4_Quiz.md)
+- [Programming Assignment: Eigenvalues and Eigenvectors](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-4/C1_W4_Assignment.ipynb)
