@@ -145,3 +145,11 @@ In this final week, you will take a deeper look at determinants. You will learn 
 - Eigenvalues and eigenvectors
 - [Quiz: Eigenvalues and Eigenvectors](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-4/C1_W4_Quiz.md)
 - [Programming Assignment: Eigenvalues and Eigenvectors](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-4/C1_W4_Assignment.ipynb)
+
+## [Course 2: Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science)
+After completing this course, learners will be able to:
+- Analytically optimize different types of functions commonly used in machine learning using properties of derivatives and gradients
+- Approximately optimize different types of functions commonly used in machine learning using first-order (gradient descent) and second-order (Newton’s method) iterative methods
+- Visually interpret differentiation of different types of functions commonly used in machine learning
+- Perform gradient descent in neural networks with different activation and cost functions 
+
