@@ -153,3 +153,28 @@ After completing this course, learners will be able to:
 - Visually interpret differentiation of different types of functions commonly used in machine learning
 - Perform gradient descent in neural networks with different activation and cost functions 
 
+### [Week 1: Functions of one variable: Derivative and optimization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-1/C2_W1_Lecture-Note.pdf)
+After completing this course, you will be able to:
+
+#### Learning Objectives
+- Perform gradient descent in neural networks with different activation and cost functions
+- Visually interpret differentiation of different types of functions commonly used in machine learning
+- Approximately optimize different types of functions commonly used in machine learning using first-order (gradient descent) and second-order (Newton’s method) iterative methods
+- Analytically optimize different types of functions commonly used in machine learning using properties of derivatives and gradients.
+
+#### Lesson 1: Derivatives
+- Example to motivate derivatives: Speedometer
+- Derivative of common functions (c, x, x^2, 1/x)
+- Meaning of e and the derivative of e^x
+- Derivative of log x
+- Existence of derivatives
+- Properties of derivative
+- [Practice Quiz: Derivatives](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-1/C2_W1_Practice-Quiz.md)
+- [Lab: Differentiation in Python: Symbolic, Numerical and Automatic](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-1/C2_W1_Lab_1_differentiation_in_python.ipynb)
+
+#### Lesson 2: Optimization with derivatives
+- Intro to optimization: Temperature example
+- Optimizing cost functions in ML: Squared loss
+- Optimizing cost functions in ML: Log loss
+- [Quiz: Derivatives and Optimization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-1/C2_W1_Quiz.md)
+- [Programming Assignment: Optimizing Functions of One Variable: Cost Minimization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-1/C2_W1_Assignment.ipynb)
