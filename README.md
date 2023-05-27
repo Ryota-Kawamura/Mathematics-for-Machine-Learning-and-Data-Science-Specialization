@@ -154,13 +154,6 @@ After completing this course, learners will be able to:
 - Perform gradient descent in neural networks with different activation and cost functions 
 
 ### [Week 1: Functions of one variable: Derivative and optimization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-1/C2_W1_Lecture-Note.pdf)
-After completing this course, you will be able to:
-
-#### Learning Objectives
-- Perform gradient descent in neural networks with different activation and cost functions
-- Visually interpret differentiation of different types of functions commonly used in machine learning
-- Approximately optimize different types of functions commonly used in machine learning using first-order (gradient descent) and second-order (Newton’s method) iterative methods
-- Analytically optimize different types of functions commonly used in machine learning using properties of derivatives and gradients.
 
 #### Lesson 1: Derivatives
 - Example to motivate derivatives: Speedometer
@@ -178,3 +171,21 @@ After completing this course, you will be able to:
 - Optimizing cost functions in ML: Log loss
 - [Quiz: Derivatives and Optimization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-1/C2_W1_Quiz.md)
 - [Programming Assignment: Optimizing Functions of One Variable: Cost Minimization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-1/C2_W1_Assignment.ipynb)
+
+### [Week 2: Functions of two or more variables: Gradients and gradient descent](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Lecture-Note.pdf)
+
+#### Lesson 1: Gradients and optimization
+- Intro to gradients
+- Example to motivate gradients: Temperature
+- Gradient notation
+- Optimization using slope method: Linear regression
+- [Practice Quiz: Partial Derivatives and Gradient](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Practice-Quiz.md)
+
+#### Lesson 2: Gradient Descent
+- Optimization using gradient descent: 1 variable
+- Optimization using gradient descent: 2 variable
+- Gradient descent for linear regression
+- [Lab: Optimization Using Gradient Descent in One Variable](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Lab_1_Optimization_Using_Gradient_Descent_in_One_Variable.ipynb)
+- [Lab: Optimization Using Gradient Descent in Two Variables](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Lab_2_Optimization_Using_Gradient_Descent_in_Two_Variables.ipynb)
+- [Quiz: Partial Derivatives and Gradient Descent](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Quiz.md)
+- [Programming Assignment: Optimization Using Gradient Descent: Linear Regression](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Assignment.ipynb)
