@@ -189,3 +189,23 @@ After completing this course, learners will be able to:
 - [Lab: Optimization Using Gradient Descent in Two Variables](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Lab_2_Optimization_Using_Gradient_Descent_in_Two_Variables.ipynb)
 - [Quiz: Partial Derivatives and Gradient Descent](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Quiz.md)
 - [Programming Assignment: Optimization Using Gradient Descent: Linear Regression](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Assignment.ipynb)
+
+### [Week 3: Optimization in Neural Networks and Newton’s method](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Lecture-Note.pdf)
+
+#### Lesson 1: Optimization in Neural Networks
+- Perceptron with no activation and squared loss (linear regression)
+- Perceptron with sigmoid activation and log loss (classification)
+- Two-layer neural network with sigmoid activation and log loss
+- Mathematics of Backpropagation
+- [Lab: Regression with Perceptron](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Lab_1_Regression_with_Perceptron.ipynb)
+- [Lab: Classification with Perceptron](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Lab_2_Classification_with_Perceptron.ipynb)
+- [Practice Quiz: Optimization in Neural Networks](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Practice-Quiz.md)
+
+#### Lesson 2: Beyond Gradient Descent: Newton’s Method
+- Root finding with Newton’s method
+- Adapting Newton’s method for optimization
+- Second derivatives and Hessians
+- Multivariate Newton’s method
+- [Lab: Optimization Using Newton's Method](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Lab_3_Optimization_Using_Newtons_Method.ipynb)
+- [Quiz: Optimization in Neural Networks and Newton's Method](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Quiz.md)
+- [Programming Assignment: Neural Network with Two Layers](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Assignment.ipynb)
