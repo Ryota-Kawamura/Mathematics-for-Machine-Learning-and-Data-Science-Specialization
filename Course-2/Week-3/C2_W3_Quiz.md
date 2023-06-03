@@ -45,16 +45,16 @@ Hint: $f \left( x \right) = x \log{\left( x \right)}$, $f^{\prime} \left( x \rig
 - [x] If $f^{\prime \prime} \left( x \right) = 0$ then the test is inconclusive.
 
 **7.** Let $f \left( x, y \right) = x^{2} + y^{3}$, then the Hessian matrix, $H \left( x, y \right)$ is:
-- [ ]
+- [ ] (A)
 
 $$H \left( x, y \right) = \begin{bmatrix} 2x & 3y^{2} \cr 3y^{2} & 2x \end{bmatrix}$$
-- [x]
+- [x] (B)
 
 $$H \left( x, y \right) = \begin{bmatrix} 2 & 0 \cr 0 & 6y \end{bmatrix}$$
-- [ ]
+- [ ] (C)
 
 $$H \left( x, y \right) = \begin{bmatrix} 0 & 2 \cr 6y & 0 \end{bmatrix}$$
-- [ ]
+- [ ] (D)
 
 $$H \left( x, y \right) = \begin{bmatrix} 0 & 0 \cr 0 & 0 \end{bmatrix}$$
 
