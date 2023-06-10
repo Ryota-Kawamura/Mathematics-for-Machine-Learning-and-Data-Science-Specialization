@@ -209,3 +209,10 @@ After completing this course, learners will be able to:
 - [Lab: Optimization Using Newton's Method](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Lab_3_Optimization_Using_Newtons_Method.ipynb)
 - [Quiz: Optimization in Neural Networks and Newton's Method](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Quiz.md)
 - [Programming Assignment: Neural Network with Two Layers](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Assignment.ipynb)
+
+## [Course 3: Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science)
+After completing this course, learners will be able to:
+- Analytically optimize different types of functions commonly used in machine learning using properties of derivatives and gradients 
+- Approximately optimize different types of functions commonly used in machine learning using first-order (gradient descent) and second-order (Newton’s method) iterative methods
+- Visually interpret differentiation of different types of functions commonly used in machine learning
+- Perform gradient descent in neural networks with different activation and cost functions 
