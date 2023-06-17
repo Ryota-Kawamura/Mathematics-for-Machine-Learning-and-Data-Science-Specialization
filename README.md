@@ -216,3 +216,27 @@ After completing this course, learners will be able to:
 - Approximately optimize different types of functions commonly used in machine learning using first-order (gradient descent) and second-order (Newton’s method) iterative methods
 - Visually interpret differentiation of different types of functions commonly used in machine learning
 - Perform gradient descent in neural networks with different activation and cost functions 
+
+### Week 1: Introduction to probability and random variables
+
+#### Lesson 1: Introduction to probability
+- Concept of probability: repeated random trials
+- Conditional probability and independence
+- Discriminative learning and conditional probability
+- Bayes theorem
+- [Lab: Four Birthday Problems](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-1/C3_W1_Lab_1_Birthday_Problems.ipynb)
+- [Lab: Monty Hall Problem](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-1/C3_W1_Lab_2_Monty_Hall.ipynb)
+- [Practice Quiz](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-1/C3_W1_Practice-Quiz.md)
+
+#### Lesson 2: Random variables
+- Random variables
+- Cumulative distribution function
+- Discrete random variables: Bernoulli distribution
+- Discrete random variables: Binomial distribution
+- Probability mass function
+- Continuous random variables: Uniform distribution
+- Continuous random variables: Gaussian distribution
+- Continuous random variables: Chi squared distribution
+- Probability distribution function
+- [Quiz](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-1/C3_W1_Quiz.md)
+- [Programming Assignment: Probability Distributions / Naive Bayes](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-1/C3_W1_Assignment.ipynb)
