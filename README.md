@@ -1,4 +1,4 @@
-# [Mathematics for Machine Learning and Data Science Specialization](https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science)
+# [Mathematics for Machine Learning and Data Science Specialization](https://www.deeplearning.ai/courses/mathematics-for-machine-learning-and-data-science-specialization/)
 Master the Toolkit of AI and Machine Learning. Mathematics for Machine Learning and Data Science is a beginner-friendly Specialization where you’ll learn the fundamental mathematics toolkit of machine learning: calculus, linear algebra, statistics, and probability.
 
 ## About this Specialization
@@ -22,14 +22,14 @@ By the end of this Specialization, you will be ready to:
 - Assess the performance of machine learning models using interval estimates and margin of errors 
 - Apply concepts of statistical hypothesis testing
 
-## [Course 1: Linear Algebra for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-linear-algebra?specialization=mathematics-for-machine-learning-and-data-science)
+## Course 1: Linear Algebra for Machine Learning and Data Science
 After completing this course, learners will be able to:
 - Represent data as vectors and matrices and identify their properties using concepts of singularity, rank, and linear independence, etc.
 - Apply common vector and matrix algebra operations like dot product, inverse, and determinants 
 - Express certain types of matrix operations as linear transformations 
 - Apply concepts of eigenvalues and eigenvectors to machine learning problems
 
-### [Week 1: Systems of Linear Equations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Lecture-Note.pdf)
+### Week 1: Systems of Linear Equations
 Matrices are commonly used in machine learning and data science to represent data and its transformations. In this week, you will learn how matrices naturally arise from systems of equations and how certain matrix properties can be thought in terms of operations on system of equations.
 
 #### Learning Objectives
@@ -59,7 +59,7 @@ Matrices are commonly used in machine learning and data science to represent dat
 - [Quiz: Matrices](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Quiz.md)
 - [Lab: Solving Linear Systems: 2 variables](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-1/C1_W1_Lab_2_solving_linear_systems_2_variables.ipynb)
 
-### [Week 2: Solving systems of Linear Equations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-2/C1_W2_Lecture-Note.pdf)
+### Week 2: Solving systems of Linear Equations
 In this week, you will learn how to solve a system of linear equations using the elimination method and the row echelon form. You will also learn about an important property of a matrix: the rank. The concept of the rank of a matrix is useful in computer vision for compressing images.
 
 #### Learning Objectives
@@ -87,7 +87,7 @@ In this week, you will learn how to solve a system of linear equations using the
 - [Quiz: The Rank of a matrix](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-2/C1_W2_Quiz.md)
 - [Programming Assignment: System of Linear Equations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-2/C1_W2_Assignment.ipynb)
 
-### [Week 3: Vectors and Linear Transformations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Lecture-Note.pdf)
+### Week 3: Vectors and Linear Transformations
 An individual instance (observation) of data is typically represented as a vector in machine learning. In this week, you will learn about properties and operations of vectors. You will also learn about linear transformations, matrix inverse, and one of the most important operations on matrices: the matrix multiplication. You will see how matrix multiplication naturally arises from composition of linear transformations. Finally, you will learn how to apply some of the properties of matrices and vectors that you have learned so far to neural networks.
 
 #### Learning Objectives
@@ -120,7 +120,7 @@ An individual instance (observation) of data is typically represented as a vecto
 - [Lab: Linear Transformations](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Lab_3_linear_transformations.ipynb)
 - [Programming Assignment: Single Perceptron Neural Networks for Linear Regression](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-3/C1_W3_Assignment.ipynb)
 
-### [Week 4: Determinants and Eigenvectors](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-4/C1_W4_Lecture-Note.pdf)
+### Week 4: Determinants and Eigenvectors
 In this final week, you will take a deeper look at determinants. You will learn how determinants can be geometrically interpreted as an area and how to calculate determinant of product and inverse of matrices. We conclude this course with eigenvalues and eigenvectors. Eigenvectors are used in dimensionality reduction in machine learning. You will see how eigenvectors naturally follow from the concept of eigenbases.
 
 #### Learning Objectives
@@ -146,14 +146,14 @@ In this final week, you will take a deeper look at determinants. You will learn 
 - [Quiz: Eigenvalues and Eigenvectors](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-4/C1_W4_Quiz.md)
 - [Programming Assignment: Eigenvalues and Eigenvectors](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-1/Week-4/C1_W4_Assignment.ipynb)
 
-## [Course 2: Calculus for Machine Learning and Data Science](https://www.coursera.org/learn/machine-learning-calculus?specialization=mathematics-for-machine-learning-and-data-science)
+## Course 2: Calculus for Machine Learning and Data Science
 After completing this course, learners will be able to:
 - Analytically optimize different types of functions commonly used in machine learning using properties of derivatives and gradients
 - Approximately optimize different types of functions commonly used in machine learning using first-order (gradient descent) and second-order (Newton’s method) iterative methods
 - Visually interpret differentiation of different types of functions commonly used in machine learning
 - Perform gradient descent in neural networks with different activation and cost functions 
 
-### [Week 1: Functions of one variable: Derivative and optimization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-1/C2_W1_Lecture-Note.pdf)
+### Week 1: Functions of one variable: Derivative and optimization
 
 #### Lesson 1: Derivatives
 - Example to motivate derivatives: Speedometer
@@ -172,7 +172,7 @@ After completing this course, learners will be able to:
 - [Quiz: Derivatives and Optimization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-1/C2_W1_Quiz.md)
 - [Programming Assignment: Optimizing Functions of One Variable: Cost Minimization](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-1/C2_W1_Assignment.ipynb)
 
-### [Week 2: Functions of two or more variables: Gradients and gradient descent](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Lecture-Note.pdf)
+### Week 2: Functions of two or more variables: Gradients and gradient descent
 
 #### Lesson 1: Gradients and optimization
 - Intro to gradients
@@ -190,7 +190,7 @@ After completing this course, learners will be able to:
 - [Quiz: Partial Derivatives and Gradient Descent](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Quiz.md)
 - [Programming Assignment: Optimization Using Gradient Descent: Linear Regression](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-2/C2_W2_Assignment.ipynb)
 
-### [Week 3: Optimization in Neural Networks and Newton’s method](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Lecture-Note.pdf)
+### Week 3: Optimization in Neural Networks and Newton’s method
 
 #### Lesson 1: Optimization in Neural Networks
 - Perceptron with no activation and squared loss (linear regression)
@@ -210,7 +210,7 @@ After completing this course, learners will be able to:
 - [Quiz: Optimization in Neural Networks and Newton's Method](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Quiz.md)
 - [Programming Assignment: Neural Network with Two Layers](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-2/Week-3/C2_W3_Assignment.ipynb)
 
-## [Course 3: Probability & Statistics for Machine Learning & Data Science](https://www.coursera.org/learn/machine-learning-probability-and-statistics?specialization=mathematics-for-machine-learning-and-data-science)
+## Course 3: Probability & Statistics for Machine Learning & Data Science
 After completing this course, learners will be able to:
 - Analytically optimize different types of functions commonly used in machine learning using properties of derivatives and gradients 
 - Approximately optimize different types of functions commonly used in machine learning using first-order (gradient descent) and second-order (Newton’s method) iterative methods
