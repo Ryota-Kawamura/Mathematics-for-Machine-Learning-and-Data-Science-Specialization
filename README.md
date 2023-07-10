@@ -260,3 +260,27 @@ After completing this course, learners will be able to:
 - [Quiz](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-2/C3_W2_Quiz.md)
 - [Lab: Simulating Dice Rolls with Numpy](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-2/C3_W2_Lab_2_Dice_Simulations.ipynb)
 - [Programming Assignment: Loaded Dice](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-2/C3_W2_Assignment.ipynb)
+
+### Week 3: Introduction to statistics
+
+#### Lesson 1: Sampling and point estimates
+- Population vs. sample
+- Describing samples: sample proportion and sample mean
+- Distribution of sample mean and proportion: Central Limit Theorem
+- Point estimates
+- Biased vs Unbiased estimates
+- [Lab: Sampling data from different distribution and studying the distribution of sample mean](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-3/C3_W3_Lab_1_Central_Limit_Theorem.ipynb)
+- [Practice Quiz](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-3/C3_W3_Practice-Quiz.md)
+
+#### Lesson 2: Maximum likelihood estimation
+- ML motivation example: Linear Discriminant Analysis
+- Likelihood
+- Intuition behind maximum likelihood estimation
+- MLE: How to get the maximum using calculus
+
+#### Lesson 3: Bayesian statistics
+- ML motivation example: Naive Bayes
+- Frequentist vs. Bayesian statistics
+- A priori/ a posteriori distributions
+- Bayesian estimators: posterior mean, posterior median, MAP
+- [Quiz](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-3/C3_W3_Quiz.md)
