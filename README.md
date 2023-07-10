@@ -240,3 +240,23 @@ After completing this course, learners will be able to:
 - Probability distribution function
 - [Quiz](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-1/C3_W1_Quiz.md)
 - [Programming Assignment: Probability Distributions / Naive Bayes](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-1/C3_W1_Assignment.ipynb)
+
+### Week 2: Describing distributions and random vectors
+
+#### Lesson 1: Describing distributions
+- Measures of central tendency: mean, median, mode
+- Expected values
+- Quantiles and box-plots
+- Measures of dispersion: variance, standard deviation
+- [Practice Quiz](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-2/C3_W2_Practice-Quiz.md)
+
+#### Lesson 2: Random vectors
+- Joint distributions
+- Marginal and conditional distributions
+- Independence
+- Measures of relatedness: covariance
+- Multivariate normal distribution
+- [Lab: Summary statistics and visualization of data sets](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-2/ugl_datasets.ipynb)
+- [Quiz](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-2/C3_W2_Quiz.md)
+- [Lab: Simulating Dice Rolls with Numpy](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-2/C3_W2_Lab_2_Dice_Simulations.ipynb)
+- [Programming Assignment: Loaded Dice](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-2/C3_W2_Assignment.ipynb)
