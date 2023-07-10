@@ -23,7 +23,7 @@
 
 **5.** Suppose you are conducting a hypothesis test to determine whether a new teaching method improves student performance.
 
-The null hypothesis (H0) states that the teaching method has no effect, while the alternative hypothesis (H1) suggests that the teaching method leads to higher student performance. You collect data from a sample of 50 students and calculate a test statistic of 1.98. The critical value at a significance level of 0.05 is 1.96. Should you reject the null hypothesis?
+The null hypothesis ($H_{0}$) states that the teaching method has no effect, while the alternative hypothesis ($H_{1}$) suggests that the teaching method leads to higher student performance. You collect data from a sample of 50 students and calculate a test statistic of 1.98. The critical value at a significance level of 0.05 is 1.96. Should you reject the null hypothesis?
 - [ ] No
 - [x] Yes
 
