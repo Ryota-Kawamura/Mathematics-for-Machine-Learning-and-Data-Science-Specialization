@@ -284,3 +284,24 @@ After completing this course, learners will be able to:
 - A priori/ a posteriori distributions
 - Bayesian estimators: posterior mean, posterior median, MAP
 - [Quiz](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-3/C3_W3_Quiz.md)
+
+### Week 4: Interval statistics and Hypothesis testing
+
+#### Lesson 1: Confidence intervals
+- Margin of error
+- Interval estimation
+- Confidence Interval for mean of population
+- CI for parameters in linear regression
+- Prediction Interval
+- [Practice Quiz](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-4/C3_W4_Practice-Quiz.md)
+
+#### Lesson 2: Hypothesis testing
+- ML Motivation: AB Testing
+- Criminal trial
+- Two types of errors
+- Test for proportion and means
+- Two sample inference for difference between groups
+- ANOVA
+- Power of a test
+- [Quiz](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-4/C3_W4_Quiz.md)
+- [Programming Assignment: A/B Testing](https://github.com/Ryota-Kawamura/Mathematics-for-Machine-Learning-and-Data-Science-Specialization/blob/main/Course-3/Week-4/C3_W4_Assignment.ipynb)
